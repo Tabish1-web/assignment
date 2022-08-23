@@ -15,7 +15,7 @@ python3 run.py
 Your application is running well you can test your api's on postman \
 Or run unittesting file
 
-### `Testing Commands`
+### `Testing Commands(macOS)`
 
 ```
 python3 testing.py
